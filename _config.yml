@@ -20,17 +20,17 @@ email: zhounan@sjtu.edu.cn
 email_full: mailto:zhounan@sjtu.edu.cn
 website: github.io/NanZhouzzz
 website_full: https://NanZhouzzz.github.io/viate
-github: trending
-twitter: twitter
-tel: +44 0000 000000
-tel_full: tel:+440000000000
-google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
+github: NanZhouzzz
+twitter: BlayneZhou
+tel: +86  34204164
+tel_full: tel:+8634204164
+google_maps: 'https://www.google.co.uk/maps/place/Smart+Grid+Center,+Shanghhai,+China'
 address:
   street: Room 301 Smart Grid Center
   postcode: 200240
   city: Shanghai Jiaotong Univeristy, Shanghai
   country: China
-google_analytics: UA-69300817-1
+google_analytics: 
 
 # needed for travis-ci build
 exclude: [vendor]
